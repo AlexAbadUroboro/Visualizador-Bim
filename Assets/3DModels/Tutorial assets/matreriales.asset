@@ -1,0 +1,184 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f829ad3a44588b4fb9c5fbcd1b89d6f, type: 3}
+  m_Name: matreriales
+  m_EditorClassIdentifier: 
+  m_Rules:
+  - <IsCollapsed>k__BackingField: 0
+    m_IsEnabled: 1
+    m_Name: Rule 1
+    m_Blocks:
+    - m_SerializedNames:
+      - context
+      - recursive
+      m_SerializedValues:
+      - 0
+      - True
+      <IsEnabled>k__BackingField: 1
+      <ActionId>k__BackingField: 887416576
+    - m_SerializedNames:
+      - mode
+      - materialReplacement.0.materialName
+      - materialReplacement.0.unityMaterial
+      - materialReplacement.0
+      - materialReplacement.1.materialName
+      - materialReplacement.1.unityMaterial
+      - materialReplacement.1
+      - materialReplacement.2.materialName
+      - materialReplacement.2.unityMaterial
+      - materialReplacement.2
+      - materialReplacement.3.materialName
+      - materialReplacement.3.unityMaterial
+      - materialReplacement.3
+      - materialReplacement.4.materialName
+      - materialReplacement.4.unityMaterial
+      - materialReplacement.4
+      - materialReplacement.5.materialName
+      - materialReplacement.5.unityMaterial
+      - materialReplacement.5
+      - materialReplacement.6.materialName
+      - materialReplacement.6.unityMaterial
+      - materialReplacement.6
+      - materialReplacement.7.materialName
+      - materialReplacement.7.unityMaterial
+      - materialReplacement.7
+      - materialReplacement.8.materialName
+      - materialReplacement.8.unityMaterial
+      - materialReplacement.8
+      - materialReplacement.9.materialName
+      - materialReplacement.9.unityMaterial
+      - materialReplacement.9
+      - materialReplacement.10.materialName
+      - materialReplacement.10.unityMaterial
+      - materialReplacement.10
+      - materialReplacement.11.materialName
+      - materialReplacement.11.unityMaterial
+      - materialReplacement.11
+      - materialReplacement.12.materialName
+      - materialReplacement.12.unityMaterial
+      - materialReplacement.12
+      - materialReplacement.13.materialName
+      - materialReplacement.13.unityMaterial
+      - materialReplacement.13
+      - materialReplacement.14.materialName
+      - materialReplacement.14.unityMaterial
+      - materialReplacement.14
+      - materialReplacement.15.materialName
+      - materialReplacement.15.unityMaterial
+      - materialReplacement.15
+      - materialReplacement.16.materialName
+      - materialReplacement.16.unityMaterial
+      - materialReplacement.16
+      - materialReplacement.17.materialName
+      - materialReplacement.17.unityMaterial
+      - materialReplacement.17
+      - materialReplacement.18.materialName
+      - materialReplacement.18.unityMaterial
+      - materialReplacement.18
+      - materialReplacement.19.materialName
+      - materialReplacement.19.unityMaterial
+      - materialReplacement.19
+      - materialReplacement.20.materialName
+      - materialReplacement.20.unityMaterial
+      - materialReplacement.20
+      - materialReplacement.21.materialName
+      - materialReplacement.21.unityMaterial
+      - materialReplacement.21
+      - materialReplacement
+      m_SerializedValues:
+      - 1
+      - Color #cad1eeff
+      - 85d02972f74ad984bade6af68d01e7ea|Assets/Materials/Chrome.mat
+      - 2
+      - Standard
+      - 85d02972f74ad984bade6af68d01e7ea|Assets/Materials/Chrome.mat
+      - 2
+      - Color #808080ff
+      - 85d02972f74ad984bade6af68d01e7ea|Assets/Materials/Chrome.mat
+      - 2
+      - Standard
+      - 85d02972f74ad984bade6af68d01e7ea|Assets/Materials/Chrome.mat
+      - 2
+      - Standard
+      - 85d02972f74ad984bade6af68d01e7ea|Assets/Materials/Chrome.mat
+      - 2
+      - Standard
+      - 16f74550f62ac4edcbe9fb9152726d13|Assets/3DModels/Tutorial assets/Skid Loader
+        ASSM 11_t-4-21.prefab
+      - 2
+      - Color #404040ff
+      - 16f74550f62ac4edcbe9fb9152726d13|Assets/3DModels/Tutorial assets/Skid Loader
+        ASSM 11_t-4-21.prefab
+      - 2
+      - Color #c0c0ffff
+      - 16f74550f62ac4edcbe9fb9152726d13|Assets/3DModels/Tutorial assets/Skid Loader
+        ASSM 11_t-4-21.prefab
+      - 2
+      - Standard
+      - 16f74550f62ac4edcbe9fb9152726d13|Assets/3DModels/Tutorial assets/Skid Loader
+        ASSM 11_t-4-21.prefab
+      - 2
+      - Standard
+      - 16f74550f62ac4edcbe9fb9152726d13|Assets/3DModels/Tutorial assets/Skid Loader
+        ASSM 11_t-4-21.prefab
+      - 2
+      - Color #ff0000ff
+      - 16f74550f62ac4edcbe9fb9152726d13|Assets/3DModels/Tutorial assets/Skid Loader
+        ASSM 11_t-4-21.prefab
+      - 2
+      - Standard
+      - 16f74550f62ac4edcbe9fb9152726d13|Assets/3DModels/Tutorial assets/Skid Loader
+        ASSM 11_t-4-21.prefab
+      - 2
+      - Color #4c4c4cff
+      - 16f74550f62ac4edcbe9fb9152726d13|Assets/3DModels/Tutorial assets/Skid Loader
+        ASSM 11_t-4-21.prefab
+      - 2
+      - Color #a59e96ff
+      - 16f74550f62ac4edcbe9fb9152726d13|Assets/3DModels/Tutorial assets/Skid Loader
+        ASSM 11_t-4-21.prefab
+      - 2
+      - Color #00c0c0ff
+      - 16f74550f62ac4edcbe9fb9152726d13|Assets/3DModels/Tutorial assets/Skid Loader
+        ASSM 11_t-4-21.prefab
+      - 2
+      - Standard
+      - 16f74550f62ac4edcbe9fb9152726d13|Assets/3DModels/Tutorial assets/Skid Loader
+        ASSM 11_t-4-21.prefab
+      - 2
+      - Color #c0c0c0ff
+      - 16f74550f62ac4edcbe9fb9152726d13|Assets/3DModels/Tutorial assets/Skid Loader
+        ASSM 11_t-4-21.prefab
+      - 2
+      - Standard
+      - 16f74550f62ac4edcbe9fb9152726d13|Assets/3DModels/Tutorial assets/Skid Loader
+        ASSM 11_t-4-21.prefab
+      - 2
+      - Color #fcbc84ff
+      - 16f74550f62ac4edcbe9fb9152726d13|Assets/3DModels/Tutorial assets/Skid Loader
+        ASSM 11_t-4-21.prefab
+      - 2
+      - Standard
+      - 16f74550f62ac4edcbe9fb9152726d13|Assets/3DModels/Tutorial assets/Skid Loader
+        ASSM 11_t-4-21.prefab
+      - 2
+      - Color #ffffffff
+      - 16f74550f62ac4edcbe9fb9152726d13|Assets/3DModels/Tutorial assets/Skid Loader
+        ASSM 11_t-4-21.prefab
+      - 2
+      - Color #ffff00ff
+      - 16f74550f62ac4edcbe9fb9152726d13|Assets/3DModels/Tutorial assets/Skid Loader
+        ASSM 11_t-4-21.prefab
+      - 2
+      - 22
+      <IsEnabled>k__BackingField: 1
+      <ActionId>k__BackingField: 315214542

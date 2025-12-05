@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f829ad3a44588b4fb9c5fbcd1b89d6f, type: 3}
+  m_Name: optimizar
+  m_EditorClassIdentifier: 
+  m_Rules:
+  - <IsCollapsed>k__BackingField: 0
+    m_IsEnabled: 1
+    m_Name: Rule 1
+    m_Blocks:
+    - m_SerializedNames:
+      - context
+      - recursive
+      m_SerializedValues:
+      - 0
+      - True
+      <IsEnabled>k__BackingField: 1
+      <ActionId>k__BackingField: 887416576
+    - m_SerializedNames:
+      - type
+      - hierarchyLevel
+      - keepParent
+      - mergeByRegionsStrategy
+      - numberOfRegions
+      - sizeOfRegions
+      - mergeStrategy
+      m_SerializedValues:
+      - 2
+      - 1
+      - False
+      - 0
+      - 10
+      - 10
+      - 1
+      <IsEnabled>k__BackingField: 1
+      <ActionId>k__BackingField: 511763496
+    - m_SerializedNames:
+      - criterion
+      - paramsQuality
+      - advancedParametersQuality.surfacicTolerance
+      - advancedParametersQuality.lineicTolerance
+      - advancedParametersQuality.normalTolerance
+      - advancedParametersQuality.uvTolerance
+      - advancedParametersQuality
+      - decimationToTargetStrategy
+      - polycount
+      - targetRatio.value
+      - targetRatio
+      - preservePaintedAreas
+      - advancedParametersTarget.uvImportance
+      - advancedParametersTarget.protectTopology
+      - advancedParametersTarget
+      m_SerializedValues:
+      - 1
+      - 2
+      - 0.001
+      - -1
+      - 8
+      - -1
+      - 4
+      - 0
+      - 1000000
+      - 49
+      - 1
+      - False
+      - 0
+      - False
+      - 2
+      <IsEnabled>k__BackingField: 1
+      <ActionId>k__BackingField: 277054868
